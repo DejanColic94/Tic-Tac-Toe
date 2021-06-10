@@ -18,8 +18,8 @@ body {
   }
   
   .square {
-    background: #fff;
-    border: 1px solid #999;
+    background: rgb(240, 239, 179);
+    border: 2px solid rgb(59, 59, 59);
     float: left;
     font-size: 24px;
     font-weight: bold;
@@ -43,6 +43,9 @@ body {
   .game {
     display: flex;
     flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    height: 90vh;
   }
   
   .game-info {
