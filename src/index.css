@@ -52,3 +52,18 @@ body {
     margin-left: 20px;
   }
   
+  .time-travel:hover {
+    background-position: right center;
+  }
+
+  .time-travel {
+    margin-bottom: 5px;
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 30px;
+    height: 30px;
+    background-image: linear-gradient(to right, #fbc2eb 0%, #a6c1ee 51%, #fbc2eb 100%);
+    color: rgb(255, 255, 255);
+  }
+
+ 
